@@ -1,25 +1,4 @@
 #!/usr/bin/env bash
-
-# set project directory name
-PROJECT_DIR ="2-new_project"
-
-# Create the project directory if it doesn't exist
-if [ ! -d "$PROJECT_DIR"]; then
-    mkdir "$PROJECT_DIR"
-    echo "Directory '$PROJECT_DIR' created."
-else
-    echo "Directory '$PROJECT_DIR' already exists."
-
-fi
-
-# navigate into the project directory
-cd "$PROJECT_DIR"
-
-# Initialize a new C# console project
-dotnet new console
-
-# Build the C# project
-dotnet build
-
-# Run the C# project
-dotnet run
+dotnet new console -o 2-new_project
+dotnet build 2-new_project
+dotnet run --project ./2-new_project
