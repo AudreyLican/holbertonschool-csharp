@@ -1,0 +1,6 @@
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp2.1\8-print_variables.csproj.AssemblyReference.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp2.1\8-print_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp2.1\8-print_variables.AssemblyInfoInputs.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp2.1\8-print_variables.AssemblyInfo.cs
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp2.1\8-print_variables.csproj.CoreCompileInputs.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\8-print_variables\obj\Debug\netcoreapp2.1\8-print_variables.sourcelink.json
