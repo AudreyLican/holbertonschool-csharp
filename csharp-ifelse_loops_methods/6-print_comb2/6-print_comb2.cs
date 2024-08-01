@@ -14,7 +14,7 @@ class Program
                     if (i != 89)
                         Console.Write("{0:D2}, ", i);
                     else
-                        Console.Write("{0:D2}", i);
+                        Console.WriteLine("{0:D2}", i);
                 }
         }
     }
