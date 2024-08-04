@@ -13,12 +13,9 @@ class Array
         {
             for (i = array.Length - 1; i >= 0; i--)
             {
-                Console.Write(array[i]);
-
-                if (i > 0)
-                    Console.Write(" ");
+                Console.Write("{0}{1}", array[i], i > 0 ? " " : "");
             }
         }
-        Console.WriteLine("");
+        Console.Write("\n");
     }
 }
