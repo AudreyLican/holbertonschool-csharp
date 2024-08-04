@@ -15,7 +15,7 @@ class Array
 
         if (size == 0)
         {
-            Console.WriteLine("");
+            Console.Write("\n");
             return numArray;
         }
 
@@ -24,7 +24,7 @@ class Array
             numArray[i] = i; 
             Console.Write(i + " ");
         }
-        Console.WriteLine();
+        Console.Write("\n");
         return numArray;
     }
 }
