@@ -21,7 +21,7 @@ class Array
 
         for (int i = 0; i < size; i++)
         {
-            Console.Write(i + " ");
+            Console.Write("{0}{1}", i, i != size - 1 ? " " : "");
             numArray[i] = i; 
         }
         Console.Write("\n");
