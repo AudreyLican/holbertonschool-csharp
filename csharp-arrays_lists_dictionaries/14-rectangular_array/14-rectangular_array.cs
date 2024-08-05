@@ -22,7 +22,7 @@ class Program
         for (int i= 0; i < 5; i++)
         {
             for (int j=0; j < 5; j++)
-                Console.Write(numArray[i, j] + " ");
+                Console.Write("{0}{1}", numArray[i, j], j < 4 ? " " : "");
             Console.WriteLine();
         }
     }
