@@ -20,12 +20,12 @@ class MyStack
         // if if aStack contains seach, remove all items up to and including search
         if (aStack.Contains(search))
         {
-            Console.WriteLine("Stack contains {0}: True", search);
+            Console.WriteLine("Stack contains \"{0}\": True", search);
             while(aStack.Contains(search))
                 aStack.Pop();
         }
         else
-            Console.WriteLine("Stack contains {0}: False", search);
+            Console.WriteLine("Stack contains \"{0}\": False", search);
 
         // Add new given item : newItem to aStack
         aStack.Push(newItem);
