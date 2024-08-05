@@ -12,7 +12,7 @@ class MyStack
         Console.WriteLine("Number of items: {0}", aStack.Count);
 
         //Print the item at the top of astack w/o removing it
-        if (aStack == null)
+        if (aStack.Count <= 0)
             Console.WriteLine("Stack is empty");
         else
             Console.WriteLine("Top item: {0}",  aStack.Peek());
