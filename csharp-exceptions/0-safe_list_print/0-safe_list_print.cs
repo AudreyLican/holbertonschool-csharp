@@ -16,7 +16,6 @@ class List
         }
         catch
         {
-            break;
         }
         /*
         for (i = 0; i < n; i++)
