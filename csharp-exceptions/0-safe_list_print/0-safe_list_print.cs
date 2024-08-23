@@ -5,30 +5,20 @@ class List
 {
     public static int SafePrint(List<int> myList, int n)
     {
-        int i;
+        int count;
 
-        try
-        {
-            for (i = 0; i < n; i++)
-            {
-                Console.WriteLine(myList[i]);
-            }
-        }
-        catch
-        {
-        }
-        /*
-        for (i = 0; i < n; i++)
+        for (int i = 0; i < n; i++)
         {
             try
             {
                 Console.WriteLine(myList[i]);
+                count++;
             }
             catch
             {
-                break;
             }
-        }*/
+        }
+
         return i;
     }
 }
