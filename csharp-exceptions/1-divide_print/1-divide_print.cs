@@ -8,7 +8,7 @@ class Int
         int sum = 0;
         try
         {
-            sum = a / b;
+            sum = (a / b);
         }
         catch
         {
