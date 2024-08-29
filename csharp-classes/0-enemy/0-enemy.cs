@@ -2,6 +2,6 @@
 
 namespace Enemies
 {
-    /// create empty public class Zombie
+    /// <summary> create empty public class Zombie. </summary>
     class Zombie{}
 }
