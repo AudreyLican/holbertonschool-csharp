@@ -14,16 +14,14 @@ namespace MyMath
         /// <returns>the hightest numbers</returns>
         public static int Max(List<int> nums)
         {
-            if (nums == null || nums.Count == 0)
+            if (nums == null || nums.Count <= 0)
                 return (0);
 
             int isMax= nums[0];
 
             foreach (int nbr in nums)
-            {
                 if (nbr > isMax)
                     isMax = nbr;
-            }
 
             return (isMax);
         }
