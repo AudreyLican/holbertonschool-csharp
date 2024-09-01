@@ -10,7 +10,7 @@ namespace MyMath.Tests
     [TestFixture]
     public class OperationsTests
     {
-        [TestMethod]
+        [Test]
         public void Max_NonEmptyList_ReturnsMaxValue()
         {
             // Arrange
@@ -24,7 +24,7 @@ namespace MyMath.Tests
             Assert.AreEqual(expected, result);
         }
 
-        [TestMethod]
+        [Test]
         public void Max_EmptyList_ReturnsZero()
         {
             // Arrange
@@ -37,7 +37,7 @@ namespace MyMath.Tests
             Assert.AreEqual(0, result);
         }
 
-        [TestMethod]
+        [Test]
         public void Max_ListWithNegativeNumbers_ReturnsMaxValue()
         {
             // Arrange
@@ -51,7 +51,7 @@ namespace MyMath.Tests
             Assert.AreEqual(expected, result);
         }
 
-        [TestMethod]
+        [Test]
         public void Max_ListWithOneElement_ReturnsThatElement()
         {
             // Arrange
@@ -65,7 +65,7 @@ namespace MyMath.Tests
             Assert.AreEqual(expected, result);
         }
 
-        [TestMethod]
+        [Test]
         public void Max_NullList_ReturnsZero()
         {
             // Act
