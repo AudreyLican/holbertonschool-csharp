@@ -7,6 +7,11 @@ namespace MyMath
     /// </summary>
     public class Operations
     {
+        /// <summary>
+        /// compare a list of intergers
+        /// </summary>
+        /// <param name="nums">List of itegers</param>
+        /// <returns>the hightest numbers</returns>
         public static int Max(List<int> nums)
         {
             if (nums == null || nums.Count == 0)
