@@ -3,3 +3,13 @@ C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-wr
 C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.AssemblyInfo.cs
 C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.csproj.CoreCompileInputs.cache
 C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.sourcelink.json
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\bin\Debug\net8.0\3-writeline.exe
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\bin\Debug\net8.0\3-writeline.deps.json
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\bin\Debug\net8.0\3-writeline.runtimeconfig.json
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\bin\Debug\net8.0\3-writeline.dll
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\bin\Debug\net8.0\3-writeline.pdb
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.dll
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\refint\3-writeline.dll
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.pdb
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.genruntimeconfig.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\ref\3-writeline.dll
