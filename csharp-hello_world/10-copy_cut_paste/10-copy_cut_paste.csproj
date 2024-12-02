@@ -5,7 +5,6 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <RootNamespace>_10_copy_cut_paste</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
   </PropertyGroup>
 
 </Project>
