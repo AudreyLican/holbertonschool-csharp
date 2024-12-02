@@ -1,0 +1,6 @@
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.csproj.AssemblyReference.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.AssemblyInfoInputs.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.AssemblyInfo.cs
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.csproj.CoreCompileInputs.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.sourcelink.json
