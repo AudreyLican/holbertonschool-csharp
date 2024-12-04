@@ -6,7 +6,7 @@ class Line
     {
         if (length > 0)
         {
-            for (int i = 0; i <= length; i++)
+            for (int i = 0; i < length; i++)
                 Console.Write("_");
         }
         Console.WriteLine();
