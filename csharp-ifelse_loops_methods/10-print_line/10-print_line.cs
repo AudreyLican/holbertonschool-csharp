@@ -9,7 +9,6 @@ class Line
             for (int i = 0; i <= length; i++)
                 Console.Write("_");
         }
-
-        Console.Write("\n");
+        Console.WriteLine();
     }
 }
