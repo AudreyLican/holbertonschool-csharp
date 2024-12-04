@@ -7,13 +7,11 @@ class Dictionary
 {
     public static void PrintSorted(Dictionary<string, string> myDict)
     {
-        List<string> keys = new List<string>(myDict.keys)
-        //SortedList<string, string> keys = new SortedList<string, string>(myDict);
-        keys.Sort();
+        SortedList<string, string> keys = new SortedList<string, string>(myDict);
 
-        foreach (string ikey in keys)
+        foreach (KeyValuePair<string, string> i in keys)
         {
-            Console.WriteLine("{0}: {1}", ikey, myDict[key]);
+            Console.WriteLine("{0}: {1}", i.Key, i.Value);
         }
     }
 }
