@@ -5,9 +5,10 @@ public class VectorMath
     public static double[] Add(double[] vector1, double[] vector2)
     {
         //verify if vector is 2D or 3D
-        if (vector1.Length != vector2.Length || (vector1.Length != 2 && vector1.Length != 3))
+        if (vector1.Length != vector2.Length || vector1.Length != 2 || vector1.Length != 3
+        || vector2.Length != 2 || vector2.Length != 3)
         {
-            return new double[] {-1};
+            return new double[] { -1 };
         }
 
         //add component
@@ -21,3 +22,4 @@ public class VectorMath
         return result;
     }
 }
+//still looking for mistake
