@@ -13,34 +13,29 @@ class MatrixMath
     /// <returns></returns>
     public static double[,] Shear2D(double[,] matrix, char direction, double factor)
     {
+        int matrixRows = matrix.GetLength(0);
+        int matrixCols = matrix.GetLength(1);
+
         // Check if the matrix is square
-        if (matrix.GetLength(0) != matrix.GetLength(1))
+        if (matrixRows != matrixCols || matrixRows != 2 || (direction != 'x' && direction != 'y'))
             return new double[,] { { -1 } };
 
-        int size = matrix.GetLength(0);
-        double[,] result = new double[size, size];
+        double[,] result = new double[matrixRows, matrixCols];
+        double[,] shear = new double[2, 2] {{1, 0}, {0, 1}};
 
-        // Apply the shear transformation based on the direction
-        if (direction == 'x' || direction == 'X')
-        {
-            // Horizontal shear (shear in the X direction)
-            for (int i = 0; i < size; i++)
-                for (int j = 0; j < size; j++)
-                    result[i, j] = matrix[i, j] + factor * i; // Apply the shear transformation in the X direction
-        }
-        else if (direction == 'y' || direction == 'Y')
-        {
-            // Vertical shear (shear in the Y direction)
-            for (int i = 0; i < size; i++)
-                for (int j = 0; j < size; j++)
-                    result[i, j] = matrix[i, j] + factor * j; // Apply the shear transformation in the Y direction
-        }
-        else
-        {
-            // Invalid direction, return matrix with -1
-            return new double[,] { { -1 } };
-        }
+        if (direction == 'x')
+            shear[1, 0] = factor;
+        else if (direction == 'y')
+            shear[0, 1] = factor;
 
+        for (int i = 0; i < matrixRows; i++)
+        {
+            for (int j = 0; j < matrixCols; j++)
+            {
+                for (int k = 0; k < 2; k++)  
+                    result[i, j] += (matrix[i, k] * shear[k, j]);
+            }
+        }
         return result;
     }
 }
