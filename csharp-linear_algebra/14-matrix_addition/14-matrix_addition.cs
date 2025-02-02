@@ -1,8 +1,8 @@
 ﻿using System;
 /// <summary>
-/// class vector math
+/// class Matrix Math
 /// </summary>
-class VectorMath
+class MatrixMath
 {
     /// <summary>
     /// method that adds two matrices and returns the resulting matrix
@@ -17,8 +17,8 @@ class VectorMath
             (matrix1.length != 2 && matrix1.length != 3 || matrix2.length != 2 && matrix2.length != 3))
             return new double[,] { {-1}};
 
-        int rows = matrix1.length;
-        int cols = matrix1[0].length;
+        int rows = matrix1.GetLength(0);
+        int cols = matrix1.GetLength(1);
 
         double[,] result = new double[rows, cols];
 
