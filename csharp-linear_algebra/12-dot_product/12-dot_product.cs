@@ -13,8 +13,8 @@ class VectorMath
     public static double DotProduct(double[] vector1, double[] vector2)
     {
         // checking if vector is 2D or 3D
-        if (vector1.Length != vector2.Length || vector1.Length < 2 || vector1.Length < 3
-        || vector2.Length != 2 || vector2.Length != 3)
+        if (vector1.Length != vector2.Length || vector1.Length < 2 || vector1.Length > 3
+        || vector2.Length < 2 || vector2.Length > 3)
             return -1;
 
         double[] result = new double[vector1.Length];
