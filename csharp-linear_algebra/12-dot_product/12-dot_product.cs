@@ -17,7 +17,7 @@ class VectorMath
         || vector2.Length < 2 || vector2.Length > 3)
             return -1;
 
-        double[] result = new double[vector1.Length];
+        double result = 0;
 
         for (int i = 0; i < vector1.Length; i++)
             result[i] += vector1[i] * vector2[i];
