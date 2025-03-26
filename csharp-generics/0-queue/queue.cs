@@ -1,14 +1,15 @@
 ﻿using System;
 
 /// <summary>
-/// A generic queue class that give the type of T
+/// A generic queue class that provides the type of T
+/// This class does not inherit from any collections or interfaces.
 /// </summary>
 /// <typeparam name="T">the type of element in the queue</typeparam>
 public class Queue<T> // Generic class
 {
-    /// <summary>return the type of the element stored in queue</summary>
+    /// <summary>Returns the type of elements stored in the queue as a string</summary>
     public string CheckType()
     {
-        return (typeof(T).ToString());
+        return typeof(T).ToString();
     }
 }
