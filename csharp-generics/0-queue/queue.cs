@@ -6,12 +6,9 @@
 /// <typeparam name="T">the type of element in the queue</typeparam>
 public class Queue<T> // Generic class
 {
-    /// <summary>
-    /// return the type of the element stored in queue
-    /// </summary>
-    /// <returns>the type of the element in queue</returns>
+    /// <summary>return the type of the element stored in queue</summary>
     public Type CheckType()
     {
-        return typeof(T);
+        return (typeof(T).ToString());
     }
 }
