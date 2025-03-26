@@ -7,7 +7,7 @@
 public class Queue<T> // Generic class
 {
     /// <summary>return the type of the element stored in queue</summary>
-    public Type CheckType()
+    public string CheckType()
     {
         return (typeof(T).ToString());
     }
