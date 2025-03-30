@@ -1,6 +1,6 @@
 ﻿using System;
 /// <summary> Class : Base. </summary>
-public abstract class Base
+abstract class Base
 {
     /// <summary> Name of the object. </summary>
     public string name{get; set; };
