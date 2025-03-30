@@ -1,14 +1,16 @@
-﻿using System;
-/// <summary> Class : Base. </summary>
+﻿﻿using System;
+
+/// <summary>
+/// Base class
+/// </summary>
 abstract class Base
 {
-    /// <summary> Name of the object. </summary>
-    public string name{get; set; };
+    /// <summary>Name property</summary>
+    public string name { get; set; }
 
-    /// <summary> Override string </summary>
-    /// <returns>formatted string </returns>
+    /// <summary>ToString override</summary>
     public override string ToString()
     {
-        return $"{name} is a {GetType()}";
+        return $"{name} is a {GetType().Name}";
     }
 }
