@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="M:Text.Str.IsPalindrome(System.String)">
+            <summary>
+            method that
+            </summary>
+            <param name="s">element to define if its string</param>
+            <returns>return true if its string</returns>
+        </member>
+    </members>
+</doc>

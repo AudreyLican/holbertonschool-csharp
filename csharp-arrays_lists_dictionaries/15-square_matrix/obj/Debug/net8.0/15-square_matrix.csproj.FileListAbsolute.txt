@@ -1,0 +1,15 @@
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net8.0\15-square_matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net8.0\15-square_matrix.AssemblyInfoInputs.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net8.0\15-square_matrix.AssemblyInfo.cs
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net8.0\15-square_matrix.csproj.CoreCompileInputs.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net8.0\15-square_matrix.sourcelink.json
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net8.0\15-square_matrix.exe
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net8.0\15-square_matrix.deps.json
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net8.0\15-square_matrix.runtimeconfig.json
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net8.0\15-square_matrix.dll
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net8.0\15-square_matrix.pdb
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net8.0\15-square_matrix.dll
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net8.0\refint\15-square_matrix.dll
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net8.0\15-square_matrix.pdb
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net8.0\15-square_matrix.genruntimeconfig.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net8.0\ref\15-square_matrix.dll

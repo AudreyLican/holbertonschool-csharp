@@ -1,0 +1,6 @@
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-exceptions\1-divide_print\obj\Debug\netcoreapp2.1\1-divide_print.csproj.AssemblyReference.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-exceptions\1-divide_print\obj\Debug\netcoreapp2.1\1-divide_print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-exceptions\1-divide_print\obj\Debug\netcoreapp2.1\1-divide_print.AssemblyInfoInputs.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-exceptions\1-divide_print\obj\Debug\netcoreapp2.1\1-divide_print.AssemblyInfo.cs
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-exceptions\1-divide_print\obj\Debug\netcoreapp2.1\1-divide_print.csproj.CoreCompileInputs.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-exceptions\1-divide_print\obj\Debug\netcoreapp2.1\1-divide_print.sourcelink.json

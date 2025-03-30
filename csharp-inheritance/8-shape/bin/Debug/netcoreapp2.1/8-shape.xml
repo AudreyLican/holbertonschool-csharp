@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>8-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>class Shape</summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>
+            virtual method Area that throw a NotImplementedException
+            </summary>
+        </member>
+        <member name="T:Rectangle">
+            <summary>
+            Derived class Rectangle that inherits from Shape.
+            </summary>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary> public property Width </summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary> public property Height </summary>
+        </member>
+        <member name="M:Rectangle.Area">
+            <summary>
+            override the Area() method from Shape class
+            </summary>
+        </member>
+        <member name="M:Rectangle.ToString">
+            <summary>
+            override the ToString() method
+            </summary>
+        </member>
+        <member name="T:Square">
+            <summary>
+            Derived class Square that inherits from Rectangle.
+            </summary>
+        </member>
+    </members>
+</doc>

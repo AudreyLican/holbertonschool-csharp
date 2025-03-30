@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            public class Zombie, defines a zombie.
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>
+            Health of the zombie.
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>
+            public constructor Zombie, health of zombie.
+            </summary>
+        </member>
+    </members>
+</doc>

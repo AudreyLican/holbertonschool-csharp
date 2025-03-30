@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMath</name>
+    </assembly>
+    <members>
+        <member name="T:MyMath.Matrix">
+            <summary>
+            method that devide all elements of a matrix
+            </summary>
+        </member>
+        <member name="M:MyMath.Matrix.Divide(System.Int32[0:,0:],System.Int32)">
+            <summary>
+            function that divide
+            </summary>
+            <param name="matrix">array of integers.</param>
+            <param name="num">number to divide</param>
+            <returns>new matrix containing</returns>
+        </member>
+    </members>
+</doc>

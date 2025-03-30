@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMath</name>
+    </assembly>
+    <members>
+        <member name="T:MyMath.Operations">
+            <summary>
+            method that adds 2 numbers
+            </summary>
+        </member>
+        <member name="M:MyMath.Operations.Add(System.Int32,System.Int32)">
+            <summary>
+            function that add 2 numbers
+            </summary>
+            <returns>return sum of the 2 numbers</returns>
+        </member>
+    </members>
+</doc>

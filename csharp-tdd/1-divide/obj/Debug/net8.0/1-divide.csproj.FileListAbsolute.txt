@@ -1,0 +1,5 @@
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-tdd\1-divide\obj\Debug\net8.0\1-divide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-tdd\1-divide\obj\Debug\net8.0\1-divide.AssemblyInfoInputs.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-tdd\1-divide\obj\Debug\net8.0\1-divide.AssemblyInfo.cs
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-tdd\1-divide\obj\Debug\net8.0\1-divide.csproj.CoreCompileInputs.cache
+C:\Users\lican\holberton_projects\holbertonschool-csharp\csharp-tdd\1-divide\obj\Debug\net8.0\1-divide.sourcelink.json

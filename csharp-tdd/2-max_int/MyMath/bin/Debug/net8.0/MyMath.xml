@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMath</name>
+    </assembly>
+    <members>
+        <member name="T:MyMath.Operations">
+            <summary>
+            method that return the max integer in a list of integers.
+            </summary>
+        </member>
+    </members>
+</doc>
